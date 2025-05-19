@@ -8,7 +8,7 @@ Para executar os exercícios, você precisará de um ambiente com o [Node.js](ht
 - Instalar as dependências
 
 ```bash
-npm install prompt-sync
+npm install
 ```
 
 ### ▶️ Execução
